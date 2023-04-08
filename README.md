@@ -1,5 +1,6 @@
-![logo](https://github.com/basantajl/basantajl/blob/main/zoro-asura-zoro-ashura.gif)
-
+<p align="center">
+  <img src="https://github.com/basantajl/basantajl/blob/main/zoro-asura-zoro-ashura.gif" alt="Your GIF Image" width="1000" height="500" />
+</p>
 # 💫 About Me:
 🔭 I’m currently Student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
