@@ -1,4 +1,4 @@
-https://www.deviantart.com/saka6272000/art/Persona-5-Protagonist-GIF-719688910
+<img align= "center" = "coding" width = 400 src = "https://www.deviantart.com/saka6272000/art/Persona-5-Protagonist-GIF-719688910.gif>
 
 # 💫 About Me:
 🔭 I’m currently Student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
