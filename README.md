@@ -1,7 +1,7 @@
+<img src="https://github.com/basantajl/basantajl/blob/main/zoro-asura-zoro-ashura.gif" alt="Your GIF Image" width="1000" height="500" />
+
 # 💫 About Me:
 🔭 I’m currently Studying in SMK Telkom Malang<br>🌱 I’m currently learning Next.js <br>💬 Ask me about Frontend , Design & UI UX Design<br>⚡ Fun fact I like Frontend
-
-<img src="https://github.com/basantajl/basantajl/blob/main/zoro-asura-zoro-ashura.gif" alt="Your GIF Image" width="1000" height="500" />
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/BasantaJalu234) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BasantaJalu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@basantajalu527) 
